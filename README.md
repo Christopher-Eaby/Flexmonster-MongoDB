@@ -1,6 +1,6 @@
 # Sprint-5
 
-Using flex monster to display data from a mongodb.
+Using flex monster to display data from a mongodb database collection.
 
 ![alt text](https://i.ytimg.com/vi/KjTML5PXy4I/maxresdefault.jpg)
 
